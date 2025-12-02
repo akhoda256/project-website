@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Embedded System Group
 description: A webpage for documentation
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+url: "https://akhoda256.github.io"    # your GitHub Pages root
+baseurl: "/project-website"           # your repo name, with leading slash
+repository: akhoda256/project-website # owner/repo for github-metadata
 
 permalink: pretty
 
@@ -152,8 +152,8 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_repository: "https://github.com/akhoda256/project-website"
+gh_edit_branch: "gh-pages"  # if your site is built from gh-pages
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
