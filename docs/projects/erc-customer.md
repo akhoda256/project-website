@@ -19,9 +19,11 @@ CUSTOMER i is currently developing the MIMOS tool chain, based on a timed versio
 # Team
 - Gaoyang Dai
 - Susanne Graf
+- Chengzi Huang
 - Nikolaus Huber
 - Behnam Khodabandeloo
 - Morteza Mohaqeqi
+- Duc Anh Nguyen
 - Petros Voudouris
 - Xu Jiang
 - Wang Yi (PI)
